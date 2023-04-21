@@ -52,7 +52,7 @@ Entity Repository Dto Service Controller로 분리를 해봤습니다.</br>
 
 ### 23.03.26
 JWT 기능(발급, 재발급, 로그아웃 완료) 구현했으나 모든페이지 적용 X ---> 기능만 확인
-
+400번대 상태코드 처리
 
 ### 해당 프로젝트의 진행에 대한 포스트한 블로그
 = https://velog.io/@dico2760/series/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8</br>
